@@ -8,8 +8,8 @@ The Ecoleta project is a website created to manage the garbage collection proces
 
 <h3>First Day</h3>
 
-We created the first page in HTML styling in CSS where we practice the use of class, Id and responsiveness.
+We created the first page in <strong>HTML</strong> styling in <strong>CSS</strong> where we practice the use of class, Id and responsiveness.
 
 <h3>Second Day</h3>
 
-We created the second page in HTML, where we can put into practice the creation of a good form, styling with CSS. It was a very exciting day, as we started the introduction to JavaScript, where we can learn more about the types of variables, conditionals, arrays, objects, loops, functions and put them into practice in the forms.
+We created the second page in <strong>HTML</strong>, where we can put into practice the creation of a good form, styling with <strong>CSS</strong>. It was a very exciting day, as we started the introduction to <strong>JavaScript</strong>, where we can learn more about the types of variables, conditionals, arrays, objects, loops, functions and put them into practice in the forms.
