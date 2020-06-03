@@ -1,5 +1,7 @@
 # _next_level_week_
-<img alt="" title=""src="assets/logo.svg" width="200px" />
+
+
+
  <h2> But what are this? </h2>
  NLW is a week-long online experience created by Rocketseat with lots of practical content, challenges, hacks and a project that will allow me to move to the next level and boost my career.<br>
  Duration: 5 days
