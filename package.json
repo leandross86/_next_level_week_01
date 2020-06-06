@@ -1,0 +1,28 @@
+{
+    "name": "nlw",
+    "version": "1.0.0",
+    "description": "<h2> But what are this? </h2>\r  NLW is a week-long online experience created by Rocketseat with lots of practical content, challenges, hacks and a project that will allow me to move to the next level and boost my career.<br>\r  Duration: 5 days\r <h2>The Project</h2>\r The Ecoleta project is a website created to manage the garbage collection process in cities. With it, it is possible to help people find collection points in a more efficient and sustainable way, adding value to the sustainable development of cities.",
+    "main": "src/server.js",
+    "scripts": {
+        "start": "nodemon src/server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/leandross86/_next_level_week_.git"
+    },
+    "keywords": [],
+    "author": "Leandro Souza",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/leandross86/_next_level_week_/issues"
+    },
+    "homepage": "https://github.com/leandross86/_next_level_week_#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "nunjucks": "^3.2.1",
+        "sqlite3": "^4.2.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
