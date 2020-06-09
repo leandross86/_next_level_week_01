@@ -11,8 +11,7 @@
 </h1>
 
 # Index
-- [_next_level_week_](#next_level_week)
-- [Index](#index)
+
   - [But what are this?](#but-what-are-this)
   - [The Project](#the-project)
   - [Technology Used](#technology-used)
