@@ -5,7 +5,12 @@
 
 <h1 align = "center">
 <img src="Public/assets/Projeto_Ecoleta4.gif"> <br>
+
+---
+
 <img src="Public/assets/Projeto_Ecoleta5.gif"> <br>
+
+---
 
 <img src="Public/assets/Projeto_Ecoleta3.gif">
 </h1>
