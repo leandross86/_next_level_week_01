@@ -62,8 +62,7 @@ The project was developed using the following technologies:
     $ npm start
 ```
 ---
-
-Developed by Leandro Souza
+Made with ❤ by Leandro Souza
 
 ---
 
