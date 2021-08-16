@@ -19,7 +19,7 @@
     "homepage": "https://github.com/leandross86/_next_level_week_#readme",
     "dependencies": {
         "express": "^4.17.1",
-        "nunjucks": "^3.2.1",
+        "nunjucks": "^3.2.3",
         "sqlite3": "^4.2.0"
     },
     "devDependencies": {
